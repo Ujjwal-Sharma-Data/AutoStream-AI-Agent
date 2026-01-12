@@ -12,18 +12,20 @@ This is a Conversational AI Agent built for **AutoStream**, a fictional SaaS com
 
 1. **Clone the Repository**
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd autostream-agent
-
+   git clone [https://github.com/Ujjwal-Sharma-Data/AutoStream-AI-Agent.git](https://github.com/Ujjwal-Sharma-Data/AutoStream-AI-Agent.git)
+   cd AutoStream-AI-Agent
 2. **Install Dependencies**
+    ```bash
     pip install -r requirements.txt
 
-3. **Configure API key**
+4. **Configure API key**
     - Create a .env file in the root folder.
     - Add your Google Gemini API key:
+         ```bash
         GOOGLE_API_KEY="your_actual_key_here"
 
-4. **Run the Agent**
+5. **Run the Agent**
+    ```bash
     python3 main.py
 
 ## Architecture Explanation
