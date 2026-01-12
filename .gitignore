@@ -1,0 +1,21 @@
+# Security (CRITICAL)
+.env
+.env.local
+
+# Python Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac OS System Files
+.DS_Store
+
+# IDE Settings (Optional but recommended)
+.vscode/
+.idea/
