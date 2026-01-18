@@ -1,5 +1,7 @@
 # AutoStream AI Agent
 
+**LIVE DEMO**: https://autostream-ai-agent-5yfpqwgetdjlaffptrajvp.streamlit.app
+
 This is a Conversational AI Agent built for **AutoStream**, a fictional SaaS company. The agent is designed to qualify sales leads, answer pricing questions using RAG, and capture user details (Name, Email, Platform) into a structured format.
 
 ## 🛠️ Tech Stack
